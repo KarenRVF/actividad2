@@ -1,0 +1,70 @@
+body{
+    background-color: #91d370;
+background-image: linear-gradient(319deg, #91d370 0%, #bca0ff 37%, #f2cd54 100%);
+
+}
+
+.tituloTarea{
+    background-color: #44b09e;
+background-image: linear-gradient(315deg, #44b09e 0%, #e0d2c7 74%);
+font-size: 1.1rem;
+font-family: 'Lobster', cursive;
+width: 400px;
+margin:20px;
+text-align: center;
+}
+.tituloTareaHijo{
+    text-align:left
+}
+h2 {
+    font-family: 'Amatic SC', cursive;
+    margin: 40px;
+
+}
+
+.titulo1 {
+    font-size: 1.1rem;
+    background-color: #eec0c6;
+background-image: linear-gradient(315deg, #eec0c6 0%, #e58c8a 74%);
+;
+}
+p{
+    font-family: 'Dancing Script', cursive;
+font-size: 1.2rem;
+}
+
+h3{
+    font-family: 'Amatic SC', cursive;
+    color: purple;
+    margin: 40px;
+    font-size: 1.6rem;
+}
+
+.titulo3{
+    
+text-align: left;
+width: 100%;
+    background-color: #44b09e;
+background-image: linear-gradient(315deg, #44b09e 0%, #e0d2c7 74%);
+}
+
+tr{
+    font-family: 'Playfair Display', serif;
+font-size: 1rem;
+}
+h4{
+    font-family: 'Amatic SC', cursive;
+}
+.mediosPago{
+    background-color: #eec0c6;
+background-image: linear-gradient(315deg, #eec0c6 0%, #e58c8a 74%);
+;
+display: inline-block;
+font-family: 'Amatic SC', cursive;
+color:purple
+}
+dt{
+    font-size: 1.4rem;
+}
+
+
